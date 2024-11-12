@@ -1,0 +1,31 @@
+{
+  "AppLayout": {
+    "home": "บ้าน",
+    "logout": "ออกจากระบบ",
+    "profile": "ประวัติโดยย่อ"
+  },
+  "HomePage": {
+    "title": "บ้าน"
+  },
+  "LocaleSwitcher": {
+    "en": "English",
+    "id": "Indonesian",
+    "th": "Thai",
+    "ja": "Japanese",
+    "label": "Language"
+  },
+  "LoginPage": {
+    "credentials": "ข้อมูลประจำตัว: jane@doe.com / next-intl",
+    "description": "กรุณากรอกรายละเอียดของคุณ",
+    "email": "อีเมล",
+    "invalidCredentials": "กรุณาตรวจสอบข้อมูลประจำตัวของคุณ",
+    "invalidEmail": "โปรดกรอกที่อยู่อีเมลที่ถูกต้อง",
+    "invalidPassword": "กรุณากรอกรหัสผ่าน",
+    "login": "ลงชื่อเข้าใช้",
+    "password": "รหัสผ่าน",
+    "title": "ยินดีต้อนรับกลับมา"
+  },
+  "ProfilePage": {
+    "title": "ประวัติโดยย่อ"
+  }
+}

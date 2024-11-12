@@ -1,0 +1,64 @@
+{
+  "ApiRoute": {
+    "hello": ""
+  },
+  "AsyncComponent": {
+    "basic": "",
+    "markup": "",
+    "rich": ""
+  },
+  "Client": {
+    "description": "",
+    "title": ""
+  },
+  "ClientCounter": {
+    "count": "",
+    "increment": ""
+  },
+  "Counter": {
+    "count": "",
+    "increment": ""
+  },
+  "Index": {
+    "description": "This is the home page (ja).",
+    "rich": "This is a <b>rich</b> text (ja).",
+    "title": "Home (ja)"
+  },
+  "JustIn": {
+    "title": ""
+  },
+  "LocaleLayout": {
+    "description": "",
+    "title": ""
+  },
+  "LocaleSwitcher": {
+    "switchLocale": ""
+  },
+  "Navigation": {
+    "about": "(MDX) について",
+    "client": "クライアントページ",
+    "home": "家",
+    "nested": "ネストされたページ",
+    "newsArticle": "ニュース記事"
+  },
+  "Nested": {
+    "description": "これはネストされたページです。",
+    "title": "ネステッド"
+  },
+  "NewsArticle": {
+    "title": ""
+  },
+  "NotFound": {
+    "title": "このページは見つかりませんでした (404)"
+  },
+  "OpenGraph": {
+    "title": ""
+  },
+  "ServerActions": {
+    "item": ""
+  },
+  "ZodFormExample": {
+    "task": "タスクを入力してください",
+    "taskEmpty": "タスクを入力してください。"
+  }
+}

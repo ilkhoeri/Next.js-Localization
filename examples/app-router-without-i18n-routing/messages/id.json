@@ -1,0 +1,31 @@
+{
+  "AppLayout": {
+    "home": "Home",
+    "logout": "Keluar",
+    "profile": "Profil"
+  },
+  "HomePage": {
+    "title": "Home"
+  },
+  "LocaleSwitcher": {
+    "en": "English",
+    "id": "Indonesian",
+    "th": "Thai",
+    "ja": "Japanese",
+    "label": "Language"
+  },
+  "LoginPage": {
+    "credentials": "Kredensial: jane@doe.com / next-intl",
+    "description": "Silakan masukkan detail Anda.",
+    "email": "E-mail",
+    "invalidCredentials": "Silakan periksa kredensial Anda.",
+    "invalidEmail": "Harap masukkan alamat email yang valid.",
+    "invalidPassword": "Silakan masukkan kata sandi.",
+    "login": "Masuk",
+    "password": "Kata sandi",
+    "title": "Selamat Datang kembali"
+  },
+  "ProfilePage": {
+    "title": "Profil"
+  }
+}

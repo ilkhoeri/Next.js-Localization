@@ -1,0 +1,31 @@
+{
+  "AppLayout": {
+    "home": "始める",
+    "logout": "ログアウト",
+    "profile": "プロフィール"
+  },
+  "HomePage": {
+    "title": "始める"
+  },
+  "LocaleSwitcher": {
+    "en": "English",
+    "id": "Indonesian",
+    "th": "Thai",
+    "ja": "Japanese",
+    "label": "Language"
+  },
+  "LoginPage": {
+    "credentials": "Anmeldedaten: jane@doe.com / next-intl",
+    "description": "詳細を入力してください。",
+    "email": "メール",
+    "invalidCredentials": "資格情報を確認してください。",
+    "invalidEmail": "有効なメールアドレスを入力してください。",
+    "invalidPassword": "パスワードを入力してください。",
+    "login": "サインイン",
+    "password": "パスワード",
+    "title": "おかえり"
+  },
+  "ProfilePage": {
+    "title": "プロフィール"
+  }
+}
